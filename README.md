@@ -1,6 +1,6 @@
 # MPI easy exercises
 
-This is a set of excercises on MPI prepared for the students of [Foundations of HPC](https://dssc.units.it/foundations-high-performance-computing) held by [DSSC @ UniTS](https://dssc.units.it) 
+This is a set of excercises on MPI prepared for the students of [Foundations of HPC](https://dssc.units.it/foundations-high-performance-computing) held by [DSSC @ UniTS](https://dssc.units.it).
 
 ## Exercise 1: fix deadlock
 
