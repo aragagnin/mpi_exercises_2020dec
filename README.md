@@ -31,9 +31,9 @@ Write a parallel algorithm to sum all numbers between `1` and `N`, where `N` is 
 
 ## Exercise 5: topologies
 
-- Implement a periodic 1D ring  and send data to the next MPI rank (thus the last will send to the first). See `ese5_ring1d.c`
+- Implement a periodic 1D ring  and send data to the next MPI rank (thus the last will send to the first) (see `ese5_ring1d.c`)
 
-- **difficult:** Implement a periodic 2D topology and use it to transpoe a matrix `ese5_ring2d.c`
+- **difficult:** Implement a periodic 2D topology and use it to transpoe a matrix (see `ese5_ring2d.c`).
 
 ## Exercise 6: mpi binding
 
