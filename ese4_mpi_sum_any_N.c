@@ -27,7 +27,7 @@ int main (int argc, char * argv[])
   /*
  *  decompose domain
  */
-  int local_size = total_size/ranks;
+  int local_size = floor(total_size/ranks);
 
   if (i_rank == ranks - 1){ //we revise the decomposition for the last rank
         local_size = total_size - local_size*(ranks - 1) ;
